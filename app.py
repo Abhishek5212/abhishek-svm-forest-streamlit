@@ -66,10 +66,10 @@ def main():
       st.header("Developed by ABHISHEK KUMAR SINGH")
       st.subheader("Student , Department of Computer Engineering")
     html_temp = """
-    <div class="" style="background-color:orange;" >
+    <div class="" style="background-color:green;" >
     <div class="clearfix">           
     <div class="col-md-12">
-    <center><p style="font-size:20px;color:white;margin-top:10px;">Machine Learning Experiment 5: Support Vector Machine and Random Forest</p></center> 
+    <center><p style="font-size:20px;color:white;margin-top:10px;">SVM & RANDOM FOREST CLASSIFICATION</p></center> 
     </div>
     </div>
     </div>
