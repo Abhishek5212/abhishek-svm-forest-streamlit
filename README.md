@@ -1,4 +1,5 @@
-#PURCHASE ESTIMATION
+PURCHASE ESTIMATION
+
 The Purchase Estimation project is an interesting data analysis project that can be tackled using various machine learning algorithms. In this project, the goal is to develop a predictive model that can accurately estimate the likelihood of a customer making a purchase. 
 
 Two popular machine learning algorithms that can be used to tackle this problem are Random Forest Classification and Support Vector Machine (SVM).
